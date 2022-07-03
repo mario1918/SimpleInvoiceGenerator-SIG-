@@ -4,7 +4,7 @@ A sales invoice is an accounting document that records a business transaction. I
 
 Typically, a sales invoice will include a description of the service provided and the amount owed. Sales invoices are crucial to small-business accounting because they enable you to record transactions of your sales for bookkeeping purposes.
 
-# Project Requirements
+## Project Requirements
 Sales Invoice Generator (SIG) App shall display a table for a preview of all the available invoices and another table for each detailed invoice whenever selected
 
 SIG App shall display the invoices table that shows: Invoice No., Invoice Date, Customer Name, and the Total amount of the invoice in the table that shows a preview of every invoice
